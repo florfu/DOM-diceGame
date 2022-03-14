@@ -1,2 +1,2 @@
 # DOM-diceGame
-Webpage that rolls two dice randomly everytime you hit refresh
+Website that rolls two dice randomly everytime you hit refresh
